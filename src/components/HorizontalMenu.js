@@ -27,18 +27,27 @@ export default class HorizontalMenu extends React.Component{
 								<div class="collapse navbar-collapse" id="navbarResponsive">
 									<ul class="navbar-nav ml-auto">
 										<li class="nav-item active">
-											<a class="nav-link" href="#">Home
+											<a class="nav-link" href="#">Inicio
 											<span class="sr-only">(current)</span>
 											</a>
 										</li>
 										<li class="nav-item">
-											<a class="nav-link" href="#">Products</a>
+											<a class="nav-link" href="#">Productos</a>
 										</li>
 										<li class="nav-item">
-											<a class="nav-link" href="#">Services</a>
+											<a class="nav-link" href="#">Promociones</a>
 										</li>
 										<li class="nav-item">
-											<a class="nav-link" href="#">Contact</a>
+											<a class="nav-link" href="#">Mis Pedidos</a>
+										</li>
+										<li class="nav-item">
+											<a class="nav-link" href="#">Contacto</a>
+										</li>
+										<li class="nav-item">
+											<a class="nav-link" href="#">Ver Carrito ( 0 ) </a>
+										</li>
+										<li class="nav-item">
+											<a class="nav-link" href="#">Administración</a>
 										</li>
 									</ul>
 								</div>
