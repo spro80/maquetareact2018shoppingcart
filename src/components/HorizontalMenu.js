@@ -46,9 +46,9 @@ export default class HorizontalMenu extends React.Component{
 										<li class="nav-item">
 											<a class="nav-link" href="#">Ver Carrito ( 0 ) </a>
 										</li>
-										<li class="nav-item">
+										/*<li class="nav-item">
 											<a class="nav-link" href="#">Administración</a>
-										</li>
+										</li>*/
 									</ul>
 								</div>
 							</div>
@@ -65,13 +65,10 @@ export default class HorizontalMenu extends React.Component{
 
 
 /*
-
 <ul class="sidenav">
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
 </ul>
-
-
 */
