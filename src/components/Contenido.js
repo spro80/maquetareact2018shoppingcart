@@ -76,6 +76,9 @@ export default class Contenido extends React.Component{
 				</div>
 			</Row>
 			
+			{`-\n`}
+
+			
 			<Row className="" key="2" >
 
 				<div class="container">
@@ -136,7 +139,10 @@ export default class Contenido extends React.Component{
 					</div>						
 				</div>
 			</Row>			
+			{`-\n`}
 			</div>
+			
+			
 		)
 	
 	}
